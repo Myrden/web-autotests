@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "web-autotests-first"
+name = "web-autotests"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]

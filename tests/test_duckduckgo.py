@@ -3,7 +3,7 @@ from selene.support.shared import browser
 from selene.support.shared.jquery_style import s, ss
 
 
-def test_find():
+def test_search():
     browser.open('https://duckduckgo.com/')
 
     s('[name=q]').type('yashaka selene').press_enter()

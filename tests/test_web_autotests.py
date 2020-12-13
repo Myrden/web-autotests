@@ -1,4 +1,4 @@
-from web_autotests_first import __version__
+from web_autotests import __version__
 
 
 def test_version():
